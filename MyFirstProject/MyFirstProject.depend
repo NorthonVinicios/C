@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1643762069 source:c:\users\north\desktop\linguagem\projetos\c-c++\myfirstproject\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1643766973 source:c:\users\north\desktop\linguagem\projetos\c-c++\myfirstproject\code.c
+	<stdio.h>
+	<stdlib.h>
+
